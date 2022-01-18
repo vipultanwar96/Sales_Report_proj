@@ -1,6 +1,5 @@
 # Sales_Report_proj
 This is a practice project for django to recall the important django topics. In this project, we'll be using the pandas, matplotlib, seaborn, xhtml2pdf and django-crispy-forms.
-You can get more info about django from here (https://docs.djangoproject.com/en/4.0/).
 
 # Basic Commands  
 1. django-admin startproject "project_name"
@@ -16,3 +15,7 @@ You can get more info about django from here (https://docs.djangoproject.com/en/
 # Applications created
 customers, products, profiles, report, sales 
 We'll be creating the models of these application in models.py. Refer them for database table.
+
+# Resources Used
+* Github : https://docs.github.com/en/get-started/quickstart/hello-world
+* Django : You can get more info about django from here (https://docs.djangoproject.com/en/4.0/).
