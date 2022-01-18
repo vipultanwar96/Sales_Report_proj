@@ -13,6 +13,6 @@ You can get more info about django from here (https://docs.djangoproject.com/en/
 8. To install packages from requirements.txt , use pip install -r requirements.txt
 9. python manage.py createsuperuser
 
-#Applicaions used in this project
+# Applicaions used in this project
 customers, products, profiles, report, sales 
 We'll be creating the models of these application in models.py. Refer them for database table.
