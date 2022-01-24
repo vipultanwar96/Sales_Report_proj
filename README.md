@@ -17,5 +17,5 @@ customers, products, profiles, report, sales
 We'll be creating the models of these application in models.py. Refer them for database table.
 
 # Resources Used
-* Github : https://docs.github.com/en/get-started/quickstart/hello-world
+* Github : https://docs.github.com/en/get-started/quickstart/hello-world (After reading the doc, i learned about pull request and making first PR)
 * Django : You can get more info about django from here (https://docs.djangoproject.com/en/4.0/).
